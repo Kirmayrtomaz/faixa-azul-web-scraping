@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "truncated": false,
+    "text": "S\u00f3 faltou ter jogo do flamengo esse fim de semana... Poq esse fim de semana foi uma merda tirando o jogo de ontem \ud83d\ude12\ud83d\ude34\ud83d\ude34",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 772450575577382912,
+    "favorite_count": 0,
+    "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": []
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 0,
+    "id_str": "772450575577382912",
+    "favorited": false,
+    "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": true,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 4221903736,
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified": false,
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/772247506327572480/FhaY8RIC_normal.jpg",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "followers_count": 350,
+        "profile_sidebar_border_color": "C0DEED",
+        "id_str": "4221903736",
+        "profile_background_color": "C0DEED",
+        "listed_count": 0,
+        "is_translation_enabled": false,
+        "utc_offset": null,
+        "statuses_count": 5783,
+        "description": ".",
+        "friends_count": 233,
+        "location": "Rio de Janeiro, Brasil",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/772247506327572480/FhaY8RIC_normal.jpg",
+        "following": false,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4221903736/1469885165",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name": "Theus_Orelha",
+        "lang": "pt",
+        "profile_background_tile": false,
+        "favourites_count": 6012,
+        "name": "Theus \u26bd\u264e",
+        "notifications": false,
+        "url": null,
+        "created_at": "Wed Nov 18 23:17:33 +0000 2015",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "protected": false,
+        "default_profile": true,
+        "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "lang": "pt",
+    "created_at": "Sun Sep 04 15:05:43 +0000 2016",
+    "in_reply_to_status_id_str": null,
+    "place": {
+        "country_code": "BR",
+        "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+        "country": "Brazil",
+        "place_type": "city",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [-43.795449, -23.08302],
+                    [-43.0877068, -23.08302],
+                    [-43.0877068, -22.7398234],
+                    [-43.795449, -22.7398234]
+                ]
+            ]
+        },
+        "contained_within": [],
+        "full_name": "Rio de Janeiro, Brazil",
+        "attributes": {},
+        "id": "97bcdfca1a2dca59",
+        "name": "Rio de Janeiro"
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    }
+}

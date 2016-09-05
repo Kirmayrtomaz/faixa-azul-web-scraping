@@ -1,0 +1,195 @@
+{
+    'follow_request_sent': False,
+    'has_extended_profile': True,
+    'profile_use_background_image': False,
+    'profile_text_color': '000000',
+    'default_profile_image': False,
+    'suspended': False,
+    'id': 236850692,
+    'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme14/bg.gif',
+    'verified': False,
+    'translator_type': 'none',
+    'profile_location': {
+        'country_code': '',
+        'url': 'https://api.twitter.com/1.1/geo/id/45e3bce63f2beeee.json',
+        'country': '',
+        'place_type': 'unknown',
+        'bounding_box': None,
+        'contained_within': [],
+        'full_name': 'Manaus, Brasil',
+        'attributes': {},
+        'id': '45e3bce63f2beeee',
+        'name': 'Manaus, Brasil'
+    },
+    'profile_image_url_https': 'https://pbs.twimg.com/profile_images/772317974246010880/r0vZ12S2_normal.jpg',
+    'profile_sidebar_fill_color': '000000',
+    'entities': {
+        'url': {
+            'urls': [{
+                'url': 'https://t.co/hl98Ia6LKR',
+                'indices': [0, 23],
+                'expanded_url': 'http://kirmayrtomaz.github.io',
+                'display_url': 'kirmayrtomaz.github.io'
+            }]
+        },
+        'description': {
+            'urls': []
+        }
+    },
+    'followers_count': 218,
+    'profile_sidebar_border_color': '000000',
+    'id_str': '236850692',
+    'profile_background_color': '000000',
+    'needs_phone_verification': False,
+    'listed_count': 5,
+    'status': {
+        'contributors': None,
+        'truncated': False,
+        'text': 'Meetup Pynorte manaus. https://t.co/vdbTPjF34S',
+        'is_quote_status': False,
+        'in_reply_to_status_id': None,
+        'id': 772138908637401088L,
+        'favorite_count': 1,
+        'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>',
+        'retweeted': False,
+        'coordinates': {
+            'type': 'Point',
+            'coordinates': [-59.97860713, -3.07435339]
+        },
+        'entities': {
+            'symbols': [],
+            'user_mentions': [],
+            'hashtags': [],
+            'urls': [],
+            'media': [{
+                'expanded_url': 'https://twitter.com/kirmayrtomaz/status/772138908637401088/photo/1',
+                'display_url': 'pic.twitter.com/vdbTPjF34S',
+                'url': 'https://t.co/vdbTPjF34S',
+                'media_url_https': 'https://pbs.twimg.com/media/CrcwOoZW8AAFOBx.jpg',
+                'id_str': '772138889037410304',
+                'sizes': {
+                    'small': {
+                        'h': 383,
+                        'resize': 'fit',
+                        'w': 680
+                    },
+                    'large': {
+                        'h': 1152,
+                        'resize': 'fit',
+                        'w': 2048
+                    },
+                    'medium': {
+                        'h': 675,
+                        'resize': 'fit',
+                        'w': 1200
+                    },
+                    'thumb': {
+                        'h': 150,
+                        'resize': 'crop',
+                        'w': 150
+                    }
+                },
+                'indices': [23, 46],
+                'type': 'photo',
+                'id': 772138889037410304L,
+                'media_url': 'http://pbs.twimg.com/media/CrcwOoZW8AAFOBx.jpg'
+            }]
+        },
+        'in_reply_to_screen_name': None,
+        'in_reply_to_user_id': None,
+        'retweet_count': 0,
+        'id_str': '772138908637401088',
+        'favorited': False,
+        'geo': {
+            'type': 'Point',
+            'coordinates': [-3.07435339, -59.97860713]
+        },
+        'in_reply_to_user_id_str': None,
+        'possibly_sensitive': False,
+        'lang': 'lt',
+        'created_at': 'Sat Sep 03 18:27:16 +0000 2016',
+        'in_reply_to_status_id_str': None,
+        'place': {
+            'country_code': 'BR',
+            'url': 'https://api.twitter.com/1.1/geo/id/07d9ec30d3883001.json',
+            'country': 'Brasil',
+            'place_type': 'poi',
+            'bounding_box': {
+                'type': 'Polygon',
+                'coordinates': [
+                    [
+                        [-60.01293066919867, -3.106331029725603],
+                        [-60.01293066919867, -3.106331029725603],
+                        [-60.01293066919867, -3.106331029725603],
+                        [-60.01293066919867, -3.106331029725603]
+                    ]
+                ]
+            },
+            'contained_within': [],
+            'full_name': 'Cardume Coworking',
+            'attributes': {},
+            'id': '07d9ec30d3883001',
+            'name': 'Cardume Coworking'
+        },
+        'extended_entities': {
+            'media': [{
+                'expanded_url': 'https://twitter.com/kirmayrtomaz/status/772138908637401088/photo/1',
+                'display_url': 'pic.twitter.com/vdbTPjF34S',
+                'url': 'https://t.co/vdbTPjF34S',
+                'media_url_https': 'https://pbs.twimg.com/media/CrcwOoZW8AAFOBx.jpg',
+                'id_str': '772138889037410304',
+                'sizes': {
+                    'small': {
+                        'h': 383,
+                        'resize': 'fit',
+                        'w': 680
+                    },
+                    'large': {
+                        'h': 1152,
+                        'resize': 'fit',
+                        'w': 2048
+                    },
+                    'medium': {
+                        'h': 675,
+                        'resize': 'fit',
+                        'w': 1200
+                    },
+                    'thumb': {
+                        'h': 150,
+                        'resize': 'crop',
+                        'w': 150
+                    }
+                },
+                'indices': [23, 46],
+                'type': 'photo',
+                'id': 772138889037410304L,
+                'media_url': 'http://pbs.twimg.com/media/CrcwOoZW8AAFOBx.jpg'
+            }]
+        }
+    },
+    'is_translation_enabled': False,
+    'utc_offset': -14400,
+    'statuses_count': 1080,
+    'description': '',
+    'friends_count': 330,
+    'location': 'Manaus, Brasil',
+    'profile_link_color': '19CF86',
+    'profile_image_url': 'http://pbs.twimg.com/profile_images/772317974246010880/r0vZ12S2_normal.jpg',
+    'following': False,
+    'geo_enabled': True,
+    'profile_banner_url': 'https://pbs.twimg.com/profile_banners/236850692/1411552948',
+    'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme14/bg.gif',
+    'name': 'Kirmayr Tomaz',
+    'lang': 'pt',
+    'profile_background_tile': False,
+    'favourites_count': 150,
+    'screen_name': 'kirmayrtomaz',
+    'notifications': False,
+    'url': 'https://t.co/hl98Ia6LKR',
+    'created_at': 'Tue Jan 11 14:25:42 +0000 2011',
+    'contributors_enabled': False,
+    'time_zone': 'Eastern Time (US & Canada)',
+    'protected': False,
+    'default_profile': False,
+    'is_translator': False
+}
